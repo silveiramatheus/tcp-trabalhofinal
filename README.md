@@ -19,4 +19,6 @@ FORAM ALTERADOS.
 ## Mapeamento proposto:
 ![image](https://user-images.githubusercontent.com/57140688/192906952-83c4ffff-e4ee-4775-be4f-8da127c93ae1.png)
 
+## Interface do usuário
+![image](https://user-images.githubusercontent.com/57140688/193122540-f6179f78-1fc0-4709-8ada-d88671229378.png)
 
