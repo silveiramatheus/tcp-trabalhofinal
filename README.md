@@ -1,5 +1,6 @@
 # Projeto - Técnicas de Construção de Programas
 Trabalho final da cadeira de Técnicas de Construção de Programas - UFRGS.
+
 Professor: Dennis Giovani Balreira
 ## Descrição do projeto
 O objetivo do trabalho continua o mesmo: a definição, a implementação, teste e depuração de um GERADOR
