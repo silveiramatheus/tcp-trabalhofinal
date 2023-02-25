@@ -1,5 +1,5 @@
 # Projeto - Técnicas de Construção de Programas
-Trabalho final da cadeira de Técnicas de Construção de Programas - UFRGS.
+Trabalho final da cadeira de Técnicas de Construção de Programas - UFRGS - 2022/1.
 
 Professor: Dennis Giovani Balreira
 ## Descrição do projeto
